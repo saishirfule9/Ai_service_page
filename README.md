@@ -18,7 +18,7 @@ This project is a single page landing website for an AI consulting business. It 
 
 ## Live Demo
 Add your live site link here  
-Example: https://yourusername.github.io/ai-service-page/
+Example: https://saishirfule9.github.io/ai_service_page/
 
 ## How to Run Locally
 1. Clone the repository
